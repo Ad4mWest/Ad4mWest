@@ -6,6 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Human!+👋;I'm+Adam+West;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h3>
+
 <h3 align="left">My skills:</h3>
 <p align="left">
 </p>
