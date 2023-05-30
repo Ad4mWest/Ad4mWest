@@ -6,9 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Human!+👋;I'm+Adam+West;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h3>
-
-
-
 <h3 align="left">My skills:</h3>
 <p align="left">
 </p>
@@ -39,44 +36,4 @@ class Me: Skills {
 &nbsp;
 &nbsp; 
 
-## iOS Apps
-<a href="https://github.com/iSergeyMedvedev/DestiniUICode">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/DestiniUICode/blob/main/DestiniUICode/Resources/Assets.xcassets/AppIcon.appiconset/Icon.png?raw=true" />
-</a>
-
-<a href="https://github.com/iSergeyMedvedev/BMI_CalculatorUICode">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/BMI_CalculatorUICode/blob/main/BMI_CalculatorUICode/Resources/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
-</a>
-
-<a href="https://github.com/iSergeyMedvedev/QuizzlerUICode">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/QuizzlerUICode/blob/main/QuizzlerUICode/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
-</a>
-
-<a href="https://github.com/iSergeyMedvedev/EggTimerUICode">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/EggTimerUICode/blob/main/EggTimerUICode/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
-</a>
-
-<a href="https://github.com/iSergeyMedvedev/XylophoneUICode">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/XylophoneUICode/blob/main/XylophoneUICode/Assets.xcassets/AppIcon.appiconset/Icon-1024.png?raw=true" />
-</a>
-
-<a href="https://github.com/iSergeyMedvedev/DiceeUIcode">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/DiceeUIcode/blob/main/DiceeUIcode/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
-</a>
-
-<a href="https://github.com/iSergeyMedvedev/I-Am-PoorUICode">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/I-Am-PoorUICode/blob/main/I%20Am%20Poor/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
-</a>
-
-<a href="https://github.com/iSergeyMedvedev/Magic_8_Ball_UI_code">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/Magic_8_Ball_UI_code/blob/main/Magic_8_Ball_UI_code/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
-</a>
-
-<a href="https://github.com/iSergeyMedvedev/Clima">
-<img align="left" alt="Xylophone" height="40px" src="https://github.com/iSergeyMedvedev/Clima/blob/main/Clima/Resources/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
-</a>
-
-<a href="https://github.com/iSergeyMedvedev/ByteCoinUICode">
-<img align="left" alt="ByteCoinUICode" height="40px" src="https://github.com/iSergeyMedvedev/ByteCoinUICode/blob/main/ByteCoinUICode/Resources/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" />
-</a>
 
