@@ -1,5 +1,5 @@
 <h3 align="center">
-<img align="center" alt="GIF" src="[https://i.gifer.com/Ypa5.mp4](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)" width="100%" height="250" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="250" />
 </h3>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
