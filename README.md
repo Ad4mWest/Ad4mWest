@@ -13,7 +13,7 @@
 
 ```Swift
 class Me: Skills {
-    let frameworks = [Foundation, UIKit, AVFoundation, Kingfisher]
+    let frameworks = [Foundation, UIKit, AVFoundation, Kingfisher, ProgressHUD]
     let layout = [Storyboard, Code Layout]
     let data = [SwiftKeychainWrapper, UserDefaults, Keychain, CoreData, Realm, Firebase]
     let networking = [URlSession, Rest Api, Alomofire]
