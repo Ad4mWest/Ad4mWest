@@ -12,7 +12,7 @@
 </p>
 
 ```Swift
-*class Me: Skills* {
+class Me: Skills {
     let frameworks = [Foundation, UIKit, AVFoundation, Kingfisher, ProgressHUD]
     let layout = [Storyboard, Code Layout]
     let data = [SwiftKeychainWrapper, UserDefaults, Keychain, CoreData, Realm, Firebase]
