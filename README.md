@@ -17,10 +17,11 @@ class Me: Skills {
     let layout = [Storyboard, Code Layout]
     let data = [SwiftKeychainWrapper, UserDefaults, Keychain, CoreData, Realm, Firebase]
     let networking = [URlSession, Rest Api, Alomofire]
+    let dependency managers = [CocoaPods, SPM]
     let multithreading = [GCD]
     let arthitectures = [MVC, MVP, MVVM]
     let designPatterns = [Delegate, CallBack, Observer, Singleton, Factory]
-    let designPrinciples = [OOP, POP, Dry, Kiss, Yagni, Solid]
+    let designPrinciples = [OOP, POP, DRY, KISS, YAGNI, SOLID]
     let english = [C2]
 }
 ```
