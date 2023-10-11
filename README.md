@@ -28,7 +28,7 @@ class Me: Skills {
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad4mwest&show_icons=true&locale=en" alt="ad4mwest" width="47%"/>  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad4mwest&show_icons=true&locale=en" alt="ad4mwest" width="97%"/>  
 
 ## Frameworks  
 <img align="left" alt="CocoaTouch" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cocoatouch.png?raw=true" />
