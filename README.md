@@ -36,10 +36,10 @@ class Me: Skills {
 <img align="left" alt="SwiftUI" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/swiftui.png?raw=true" />
 <img align="left" alt="CoreData" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coredata.png?raw=true" />
 <img align="left" alt="CoreAnimation" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coreanimation.png?raw=true" />
-<img align="left" alt="AVFoundation" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/avfoundation.png?raw=true" />
-<img align="left" alt="SpriteKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/spritekit.png?raw=true" />
-<img align="right" alt="SceneKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/scenekit.png?raw=true" />
-<img align="right" alt="WidgetKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/widgetkit.png?raw=true" />
+<img align="center" alt="AVFoundation" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/avfoundation.png?raw=true" />
+<img align="center" alt="SpriteKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/spritekit.png?raw=true" />
+<img align="center" alt="SceneKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/scenekit.png?raw=true" />
+<img align="center" alt="WidgetKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/widgetkit.png?raw=true" />
 <img align="right" alt="CoreAudio" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coreaudio.png?raw=true" />
 <img align="right" alt="CloudKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cloudkit.png?raw=true" />
 <img align="right" alt="SiriKit" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/sirikit.png?raw=true" />
