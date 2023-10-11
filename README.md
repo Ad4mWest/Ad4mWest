@@ -3,7 +3,7 @@
 </h3>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Human!+👋;I'm+Adam+West.;Nice+to+meet+you!&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I'm+Adam+West.;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h3>
 
@@ -29,7 +29,7 @@ class Me: Skills {
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad4mwest&show_icons=true&locale=en" alt="ad4mwest" width="50%"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad4mwest&" alt="ad4mwest" width="50%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ad4mwest&show_icons=true&locale=en" alt="ad4mwest" width="50%"/> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ad4mwest&" alt="ad4mwest" width="50%"/>
 
 ## Frameworks  
 <img align="left" alt="CocoaTouch" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cocoatouch.png?raw=true" />
