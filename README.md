@@ -22,6 +22,7 @@ class Me: Skills {
     let arthitectures = [MVC, MVP, MVVM]
     let designPatterns = [Delegate, CallBack, Observer, Singleton, Factory]
     let designPrinciples = [OOP, POP, DRY, KISS, YAGNI, SOLID]
+    let testing = [Unit, UI, Snapshot]
     let english = [C2]
 }
 ```
