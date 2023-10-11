@@ -4,7 +4,7 @@
   </a>
 </h3>
 
-<h3 align="left">My skills:</h3>
+<h3 align="left">My skills</h3>
 <p align="left">
 </p>
 
@@ -23,7 +23,6 @@ class Me: Skills {
     let english = [C2]
 }
 ```
-
 
 ## Statistics 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ad4mwest&show_icons=true&locale=en" alt="ad4mwest" width="48.5%"/> <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=ad4mwest&" alt="ad4mwest" width="51%"/>
