@@ -29,7 +29,7 @@ class Me: Skills {
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad4mwest&show_icons=true&locale=en" alt="ad4mwest" width="49%"/> <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=ad4mwest&" alt="ad4mwest" width="50%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad4mwest&show_icons=true&locale=en" alt="ad4mwest" width="46%"/> <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=ad4mwest&" alt="ad4mwest" width="50%"/>
 
 ## Frameworks  
 <img align="left" alt="CocoaTouch" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cocoatouch.png?raw=true" />
