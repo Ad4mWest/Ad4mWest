@@ -29,7 +29,8 @@ class Me: Skills {
 
 <h3 align="center">
 <img align="center" alt="GIF" src="https://github.com/Ad4mWest/gitConsoleMemo/blob/main/code.gif?raw=true" width="100%" height="200"/>
-</h3>
+</h3>![code](https://github.com/Ad4mWest/Ad4mWest/assets/118524522/9158ab81-f9e2-4848-a736-bdc7582b4670)
+
 
 ## Frameworks  
 <img align="left" alt="CocoaTouch" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cocoatouch.png?raw=true" />
