@@ -29,12 +29,14 @@ class Me: Skills {
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad4mwest&show_icons=true&locale=en" alt="ad4mwest" width="47%"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad4mwest&" alt="ad4mwest" width="50%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad4mwest&show_icons=true&locale=en" alt="ad4mwest" width="50%"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad4mwest&" alt="ad4mwest" width="50%"/>
 
 ## Frameworks  
 <img align="left" alt="CocoaTouch" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/cocoatouch.png?raw=true" />
 <img align="left" alt="SwiftUI" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/swiftui.png?raw=true" />
 <img align="left" alt="CoreData" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coredata.png?raw=true" />
+<img align="left" alt="CoreAnimation" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/coreanimation.png?raw=true" />
+<img align="left" alt="AVFoundation" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/avfoundation.png?raw=true" />
 <img align="left" alt="Firebase" height="36px" src="https://github.com/VladimirFibe/VladimirFibe/blob/main/Assets/firebase.png" />
 
 &nbsp;
