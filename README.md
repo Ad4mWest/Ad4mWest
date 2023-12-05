@@ -1,4 +1,3 @@
-
 <h2 align="center"> 
     <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" 
 width="32%" > 
@@ -8,7 +7,7 @@ width="32%" >
 width="32%" > 
   <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+everybody!+👋;I'm+Adam+West+👹;Nice+to+meet+you!🌊&center=true&size=20">
+      <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=100&color=99FF67&random=false&width=435&lines=Welcome,+to+Matrix!+👋;I'm+Adam+West+👹;Nice+to+meet+you!🌊&center=true&size=20" alt="Typing SVG" />
   </a>
 </h3>
 </h2>
