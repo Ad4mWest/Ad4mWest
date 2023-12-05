@@ -1,8 +1,4 @@
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+everybody!+👋;I'm+Adam+West+👹;Nice+to+meet+you!🌊&center=true&size=20">
-  </a>
-</h3>
+
 <h2 align="center"> 
     <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" 
 width="32%" > 
@@ -10,6 +6,11 @@ width="32%" >
 width="32%" > 
     <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" 
 width="32%" > 
+  <h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+everybody!+👋;I'm+Adam+West+👹;Nice+to+meet+you!🌊&center=true&size=20">
+  </a>
+</h3>
 </h2>
 <h3 align="left">My skills</h3>
 <p align="left">
