@@ -22,10 +22,10 @@ class Me: Skills {
     let data = [SwiftKeychainWrapper, UserDefaults, Keychain, CoreData, Realm, Firebase]
     let networking = [URlSession, Rest Api, Alomofire]
     let dependency managers = [CocoaPods, SPM]
-    let multithreading = [GCD]
-    let arthitectures = [MVC, MVP, MVVM]
+    let multithreading = [GCD, Operation, Thread]
+    let arthitectures = [MVC, MVP, MVVM, VIPER]
     let designPatterns = [Delegate, CallBack, Observer, Singleton, Factory]
-    let designPrinciples = [OOP, POP, DRY, KISS, YAGNI, SOLID]
+    let designPrinciples = [OOP, SOLID, POP, DRY, KISS, YAGNI]
     let testing = [Unit, UI, Snapshot, MobileMetrica]
     let english = [C2]
 }
