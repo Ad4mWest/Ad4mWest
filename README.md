@@ -17,10 +17,10 @@ width="32%" >
 
 ```Swift
 class Me: Skills {
-    let frameworks = [SwiftUI, UIKit, Combine, Foundation, AVFoundation, Kingfisher, ProgressHUD]
-    let layout = [Storyboard, Code Layout]
-    let data = [SwiftKeychainWrapper, UserDefaults, Keychain, CoreData, Realm, Firebase]
-    let networking = [URlSession, Rest Api, Alomofire]
+    let frameworks = [SwiftUI, UIKit, Combine, Foundation, AVFoundation]
+    let layout = [Code Layout, Storyboard]
+    let data = [CoreData, UserDefaults, Keychain,  Realm]
+    let networking = [URlSession, Rest Api, Alomofire, Firebase]
     let dependency managers = [CocoaPods, SPM]
     let multithreading = [GCD, Operation, Thread]
     let arthitectures = [MVC, MVP, MVVM, VIPER]
