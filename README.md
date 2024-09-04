@@ -27,7 +27,7 @@ class Me: Skills {
     let designPatterns = [Delegate, CallBack, Observer, Singleton, Factory]
     let designPrinciples = [OOP, SOLID, POP, DRY, KISS, YAGNI]
     let testing = [Unit, UI, Snapshot, MobileMetrica]
-    let english = [C2]
+    let english = [C1]
 }
 ```
 
